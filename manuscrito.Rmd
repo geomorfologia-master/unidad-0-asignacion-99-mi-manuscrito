@@ -8,7 +8,7 @@ output:
     template: svm-latex-ms.tex
     number_sections: true
 title: | 
-        | Mis hormigas
+        | Mi playa
         | Subtítulo
         | Subtítulo
 author:
