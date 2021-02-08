@@ -8,13 +8,13 @@ output:
     template: svm-latex-ms.tex
     number_sections: true
 title: | 
-        | Mi playa
+        | Título
         | Subtítulo
         | Subtítulo
 author:
-- name: Tali tali tali
-  affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
-abstract: "Mi resumen"
+- name: Nombre del estudiante
+  affiliation: Afiliación, normalmente algo tal que "Estudiante, Universidad Autónoma de Santo Domingo (UASD)"
+abstract: "Resumen del manuscrito"
 keywords: "palabra clave 1, palabra clave 2"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
